@@ -112,6 +112,10 @@ class _MyHomePageState extends State<MyHomePage> {
               'I am Riyazur Rohman Kawchar',
               style: Theme.of(context).textTheme.headlineMedium,
             ),
+            Text(
+              'I am Software Engineer',
+              style: Theme.of(context).textTheme.headlineMedium,
+            ),
           ],
         ),
       ),
