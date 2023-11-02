@@ -120,6 +120,10 @@ class _MyHomePageState extends State<MyHomePage> {
               'Uttara Dhaka',
               style: Theme.of(context).textTheme.headlineMedium,
             ),
+            Text(
+              "My Fathers name : Nabir Uddin",
+              style: Theme.of(context).textTheme.headlineMedium,
+            ),
           ],
         ),
       ),
